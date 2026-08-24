@@ -1,2 +1,2 @@
 # Valentine
-Built a webpage that is responsive.
+Built a webpage that is interactive.
